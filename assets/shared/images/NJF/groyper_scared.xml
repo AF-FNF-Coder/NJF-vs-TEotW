@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="groyper_scared.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Groyper_Scared0000" x="1" y="1" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0001" x="1011" y="1" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0002" x="2021" y="1" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0003" x="3031" y="1" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0004" x="1" y="860" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0005" x="1" y="860" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0006" x="1011" y="860" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0007" x="1011" y="860" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0008" x="2021" y="860" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0009" x="2021" y="860" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0010" x="3031" y="860" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0011" x="3031" y="860" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0012" x="1" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0013" x="1" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0014" x="1011" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0015" x="1011" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0016" x="2021" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0017" x="2021" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0018" x="3031" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0019" x="1" y="2578" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0020" x="1011" y="2578" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0021" x="1011" y="2578" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0022" x="1" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0023" x="1" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0024" x="1011" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0025" x="1011" y="1719" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0026" x="2021" y="2578" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0027" x="2021" y="2578" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0028" x="3031" y="2578" width="1009" height="858"/>
+	<SubTexture name="Groyper_Scared0029" x="3031" y="2578" width="1009" height="858"/>
+</TextureAtlas>

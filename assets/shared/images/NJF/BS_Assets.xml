@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BS_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BS Down0000" x="1" y="1" width="477" height="673" frameX="0" frameY="-4" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down0001" x="1" y="1" width="477" height="673" frameX="0" frameY="-4" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down0002" x="479" y="1" width="471" height="677" frameX="-5" frameY="0" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down0003" x="479" y="1" width="471" height="677" frameX="-5" frameY="0" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down0004" x="951" y="1" width="466" height="677" frameX="-10" frameY="0" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down0005" x="951" y="1" width="466" height="677" frameX="-10" frameY="0" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Idle0000" x="1418" y="1" width="470" height="668" frameX="0" frameY="-25" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0001" x="1418" y="1" width="470" height="668" frameX="0" frameY="-25" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0002" x="1889" y="1" width="465" height="677" frameX="-4" frameY="-16" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0003" x="1889" y="1" width="465" height="677" frameX="-4" frameY="-16" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0004" x="2355" y="1" width="460" height="685" frameX="-8" frameY="-8" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0005" x="2355" y="1" width="460" height="685" frameX="-8" frameY="-8" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0006" x="2816" y="1" width="457" height="691" frameX="-10" frameY="-2" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0007" x="2816" y="1" width="457" height="691" frameX="-10" frameY="-2" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0008" x="3274" y="1" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0009" x="3274" y="1" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0010" x="3274" y="1" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0011" x="3274" y="1" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle0012" x="3274" y="1" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Left0000" x="1" y="695" width="473" height="674" frameX="0" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left0001" x="1" y="695" width="473" height="674" frameX="0" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left0002" x="475" y="695" width="470" height="674" frameX="-7" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left0003" x="475" y="695" width="470" height="674" frameX="-7" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left0004" x="946" y="695" width="467" height="674" frameX="-10" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left0005" x="946" y="695" width="467" height="674" frameX="-10" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Right0000" x="1414" y="695" width="480" height="675" frameX="-12" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right0001" x="1414" y="695" width="480" height="675" frameX="-12" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right0002" x="1895" y="695" width="483" height="675" frameX="-3" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right0003" x="1895" y="695" width="483" height="675" frameX="-3" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right0004" x="2379" y="695" width="486" height="675" frameX="0" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right0005" x="2379" y="695" width="486" height="675" frameX="0" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Up0000" x="2866" y="695" width="459" height="681" frameX="-6" frameY="0" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up0001" x="2866" y="695" width="459" height="681" frameX="-6" frameY="0" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up0002" x="3326" y="695" width="462" height="678" frameX="-3" frameY="-3" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up0003" x="3326" y="695" width="462" height="678" frameX="-3" frameY="-3" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up0004" x="1" y="1377" width="465" height="678" frameX="0" frameY="-3" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up0005" x="1" y="1377" width="465" height="678" frameX="0" frameY="-3" frameWidth="465" frameHeight="681"/>
+</TextureAtlas>

@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BS_Assets_Angry.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BS Down Angry0000" x="1" y="1" width="477" height="673" frameX="0" frameY="-4" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down Angry0001" x="1" y="1" width="477" height="673" frameX="0" frameY="-4" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down Angry0002" x="479" y="1" width="471" height="677" frameX="-5" frameY="0" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down Angry0003" x="479" y="1" width="471" height="677" frameX="-5" frameY="0" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down Angry0004" x="951" y="1" width="466" height="677" frameX="-10" frameY="0" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Down Angry0005" x="951" y="1" width="466" height="677" frameX="-10" frameY="0" frameWidth="477" frameHeight="677"/>
+	<SubTexture name="BS Explode0000" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0001" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0002" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0003" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0004" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0005" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0006" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0007" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0008" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0009" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0010" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0011" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0012" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0013" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0014" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0015" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0016" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0017" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0018" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0019" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0020" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0021" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0022" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0023" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0024" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0025" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0026" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0027" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0028" x="1418" y="1" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0029" x="1875" y="1" width="476" height="683" frameX="-138" frameY="-406" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0030" x="2352" y="1" width="466" height="689" frameX="-143" frameY="-400" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0031" x="2819" y="1" width="437" height="698" frameX="-158" frameY="-391" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0032" x="3257" y="1" width="446" height="696" frameX="-153" frameY="-393" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0033" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0034" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0035" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0036" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0037" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0038" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0039" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0040" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0041" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0042" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0043" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0044" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0045" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0046" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0047" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0048" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0049" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0050" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0051" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0052" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0053" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0054" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0055" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0056" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0057" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0058" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0059" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0060" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0061" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0062" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0063" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0064" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0065" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0066" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0067" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0068" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0069" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0070" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0071" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0072" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0073" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0074" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0075" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0076" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0077" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0078" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0079" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0080" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0081" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0082" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0083" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0084" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0085" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0086" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0087" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0088" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0089" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0090" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0091" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0092" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0093" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0094" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0095" x="1" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0096" x="458" y="700" width="445" height="708" frameX="-154" frameY="-381" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0097" x="904" y="700" width="481" height="841" frameX="-119" frameY="-248" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0098" x="1386" y="700" width="543" height="946" frameX="-61" frameY="-143" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0099" x="1930" y="700" width="604" height="1089" frameX="0" frameY="0" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0100" x="2535" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0101" x="2535" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0102" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0103" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0104" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0105" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0106" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0107" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0108" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0109" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0110" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0111" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0112" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0113" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0114" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0115" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0116" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0117" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0118" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0119" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0120" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0121" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0122" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0123" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0124" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0125" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0126" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0127" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0128" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0129" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0130" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0131" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0132" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0133" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0134" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0135" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0136" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0137" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0138" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0139" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0140" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0141" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0142" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0143" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0144" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0145" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0146" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0147" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0148" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0149" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0150" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0151" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0152" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0153" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0154" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0155" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0156" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0157" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0158" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0159" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0160" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0161" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Explode0162" x="2992" y="700" width="456" height="693" frameX="-148" frameY="-396" frameWidth="614" frameHeight="1089"/>
+	<SubTexture name="BS Exploded0000" x="3449" y="700" width="296" height="601" frameX="-1" frameY="-14" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0001" x="3449" y="700" width="296" height="601" frameX="-1" frameY="-14" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0002" x="3746" y="700" width="296" height="602" frameX="-1" frameY="-13" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0003" x="3746" y="700" width="296" height="602" frameX="-1" frameY="-13" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0004" x="1" y="1790" width="296" height="603" frameX="-1" frameY="-12" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0005" x="1" y="1790" width="296" height="603" frameX="-1" frameY="-12" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0006" x="298" y="1790" width="295" height="605" frameX="-1" frameY="-10" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0007" x="298" y="1790" width="295" height="605" frameX="-1" frameY="-10" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0008" x="594" y="1790" width="293" height="608" frameX="-2" frameY="-7" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0009" x="594" y="1790" width="293" height="608" frameX="-2" frameY="-7" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0010" x="888" y="1790" width="292" height="611" frameX="-2" frameY="-4" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0011" x="888" y="1790" width="292" height="611" frameX="-2" frameY="-4" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0012" x="1181" y="1790" width="290" height="615" frameX="-3" frameY="0" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0013" x="1181" y="1790" width="290" height="615" frameX="-3" frameY="0" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0014" x="1181" y="1790" width="290" height="615" frameX="-3" frameY="0" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0015" x="1181" y="1790" width="290" height="615" frameX="-3" frameY="0" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0016" x="1472" y="1790" width="292" height="611" frameX="-2" frameY="-4" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0017" x="1472" y="1790" width="292" height="611" frameX="-2" frameY="-4" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0018" x="1765" y="1790" width="293" height="608" frameX="-2" frameY="-7" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0019" x="1765" y="1790" width="293" height="608" frameX="-2" frameY="-7" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0020" x="2059" y="1790" width="295" height="605" frameX="-1" frameY="-10" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0021" x="2059" y="1790" width="295" height="605" frameX="-1" frameY="-10" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0022" x="2355" y="1790" width="296" height="603" frameX="-1" frameY="-12" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0023" x="2355" y="1790" width="296" height="603" frameX="-1" frameY="-12" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0024" x="2652" y="1790" width="297" height="602" frameX="0" frameY="-13" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0025" x="2652" y="1790" width="297" height="602" frameX="0" frameY="-13" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded0026" x="2950" y="1790" width="297" height="601" frameX="0" frameY="-14" frameWidth="297" frameHeight="615"/>
+	<SubTexture name="BS Exploded Idle0000" x="3248" y="1790" width="296" height="601" frameX="0" frameY="-18" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0001" x="3248" y="1790" width="296" height="601" frameX="0" frameY="-18" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0002" x="3545" y="1790" width="294" height="608" frameX="-1" frameY="-11" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0003" x="3545" y="1790" width="294" height="608" frameX="-1" frameY="-11" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0004" x="1" y="2406" width="292" height="614" frameX="-1" frameY="-5" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0005" x="1" y="2406" width="292" height="614" frameX="-1" frameY="-5" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0006" x="294" y="2406" width="290" height="618" frameX="-2" frameY="-1" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0007" x="294" y="2406" width="290" height="618" frameX="-2" frameY="-1" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0008" x="585" y="2406" width="290" height="619" frameX="-2" frameY="0" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0009" x="585" y="2406" width="290" height="619" frameX="-2" frameY="0" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0010" x="585" y="2406" width="290" height="619" frameX="-2" frameY="0" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0011" x="585" y="2406" width="290" height="619" frameX="-2" frameY="0" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0012" x="585" y="2406" width="290" height="619" frameX="-2" frameY="0" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Exploded Idle0013" x="585" y="2406" width="290" height="619" frameX="-2" frameY="0" frameWidth="296" frameHeight="619"/>
+	<SubTexture name="BS Idle Angry0000" x="876" y="2406" width="470" height="668" frameX="0" frameY="-25" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0001" x="876" y="2406" width="470" height="668" frameX="0" frameY="-25" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0002" x="1347" y="2406" width="465" height="677" frameX="-4" frameY="-16" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0003" x="1347" y="2406" width="465" height="677" frameX="-4" frameY="-16" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0004" x="1813" y="2406" width="460" height="685" frameX="-8" frameY="-8" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0005" x="1813" y="2406" width="460" height="685" frameX="-8" frameY="-8" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0006" x="2274" y="2406" width="457" height="691" frameX="-10" frameY="-2" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0007" x="2274" y="2406" width="457" height="691" frameX="-10" frameY="-2" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0008" x="2732" y="2406" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0009" x="2732" y="2406" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0010" x="2732" y="2406" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0011" x="2732" y="2406" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Idle Angry0012" x="2732" y="2406" width="456" height="693" frameX="-11" frameY="0" frameWidth="470" frameHeight="693"/>
+	<SubTexture name="BS Left Angry0000" x="3189" y="2406" width="473" height="674" frameX="0" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left Angry0001" x="3189" y="2406" width="473" height="674" frameX="0" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left Angry0002" x="1" y="3100" width="470" height="674" frameX="-7" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left Angry0003" x="1" y="3100" width="470" height="674" frameX="-7" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left Angry0004" x="472" y="3100" width="467" height="674" frameX="-10" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Left Angry0005" x="472" y="3100" width="467" height="674" frameX="-10" frameY="0" frameWidth="477" frameHeight="674"/>
+	<SubTexture name="BS Right Angry0000" x="940" y="3100" width="480" height="675" frameX="-12" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right Angry0001" x="940" y="3100" width="480" height="675" frameX="-12" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right Angry0002" x="1421" y="3100" width="483" height="675" frameX="-3" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right Angry0003" x="1421" y="3100" width="483" height="675" frameX="-3" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right Angry0004" x="1905" y="3100" width="486" height="675" frameX="0" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Right Angry0005" x="1905" y="3100" width="486" height="675" frameX="0" frameY="0" frameWidth="492" frameHeight="675"/>
+	<SubTexture name="BS Stalemate0000" x="2392" y="3100" width="262" height="676"/>
+	<SubTexture name="BS Stalemate0001" x="2392" y="3100" width="262" height="676"/>
+	<SubTexture name="BS Stalemate0002" x="2392" y="3100" width="262" height="676"/>
+	<SubTexture name="BS Up Angry0000" x="2655" y="3100" width="459" height="681" frameX="-6" frameY="0" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up Angry0001" x="2655" y="3100" width="459" height="681" frameX="-6" frameY="0" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up Angry0002" x="3115" y="3100" width="462" height="678" frameX="-3" frameY="-3" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up Angry0003" x="3115" y="3100" width="462" height="678" frameX="-3" frameY="-3" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up Angry0004" x="3578" y="3100" width="465" height="678" frameX="0" frameY="-3" frameWidth="465" frameHeight="681"/>
+	<SubTexture name="BS Up Angry0005" x="3578" y="3100" width="465" height="678" frameX="0" frameY="-3" frameWidth="465" frameHeight="681"/>
+</TextureAtlas>

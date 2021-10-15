@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="groyper.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Groyper0000" x="1" y="1" width="761" height="858"/>
+	<SubTexture name="Groyper0001" x="763" y="1" width="761" height="858"/>
+	<SubTexture name="Groyper0002" x="1525" y="1" width="761" height="858"/>
+	<SubTexture name="Groyper0003" x="2287" y="1" width="761" height="858"/>
+	<SubTexture name="Groyper0004" x="3049" y="1" width="761" height="858"/>
+	<SubTexture name="Groyper0005" x="3049" y="1" width="761" height="858"/>
+	<SubTexture name="Groyper0006" x="1" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0007" x="763" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0008" x="763" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0009" x="763" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0010" x="1525" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0011" x="1525" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0012" x="1525" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0013" x="2287" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0014" x="2287" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0015" x="3049" y="860" width="761" height="858"/>
+	<SubTexture name="Groyper0016" x="1" y="1719" width="761" height="858"/>
+	<SubTexture name="Groyper0017" x="763" y="1719" width="761" height="858"/>
+	<SubTexture name="Groyper0018" x="1525" y="1719" width="761" height="858"/>
+	<SubTexture name="Groyper0019" x="2287" y="1719" width="761" height="858"/>
+	<SubTexture name="Groyper0020" x="2287" y="1719" width="761" height="858"/>
+	<SubTexture name="Groyper0021" x="3049" y="1719" width="761" height="858"/>
+	<SubTexture name="Groyper0022" x="1" y="2578" width="761" height="858"/>
+	<SubTexture name="Groyper0023" x="1" y="2578" width="761" height="858"/>
+	<SubTexture name="Groyper0024" x="1" y="2578" width="761" height="858"/>
+	<SubTexture name="Groyper0025" x="763" y="2578" width="761" height="858"/>
+	<SubTexture name="Groyper0026" x="763" y="2578" width="761" height="858"/>
+	<SubTexture name="Groyper0027" x="763" y="2578" width="761" height="858"/>
+	<SubTexture name="Groyper0028" x="1525" y="2578" width="761" height="858"/>
+	<SubTexture name="Groyper0029" x="1525" y="2578" width="761" height="858"/>
+</TextureAtlas>

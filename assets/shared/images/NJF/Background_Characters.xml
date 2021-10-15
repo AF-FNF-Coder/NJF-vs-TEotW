@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Background_Characters.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Background Characters0000" x="1" y="1" width="800" height="655"/>
+	<SubTexture name="Background Characters0001" x="802" y="1" width="800" height="655"/>
+	<SubTexture name="Background Characters0002" x="1603" y="1" width="800" height="655"/>
+	<SubTexture name="Background Characters0003" x="2404" y="1" width="800" height="655"/>
+	<SubTexture name="Background Characters0004" x="3205" y="1" width="800" height="655"/>
+	<SubTexture name="Background Characters0005" x="1" y="657" width="800" height="655"/>
+	<SubTexture name="Background Characters0006" x="802" y="657" width="800" height="655"/>
+	<SubTexture name="Background Characters0007" x="1603" y="657" width="800" height="655"/>
+	<SubTexture name="Background Characters0008" x="2404" y="657" width="800" height="655"/>
+	<SubTexture name="Background Characters0009" x="3205" y="657" width="800" height="655"/>
+	<SubTexture name="Background Characters0010" x="1" y="1313" width="800" height="655"/>
+	<SubTexture name="Background Characters0011" x="802" y="1313" width="800" height="655"/>
+	<SubTexture name="Background Characters0012" x="1603" y="1313" width="800" height="655"/>
+	<SubTexture name="Background Characters0013" x="2404" y="1313" width="800" height="655"/>
+	<SubTexture name="Background Characters0014" x="3205" y="1313" width="800" height="655"/>
+	<SubTexture name="Background Characters0015" x="1" y="1969" width="800" height="655"/>
+	<SubTexture name="Background Characters0016" x="802" y="1969" width="800" height="655"/>
+	<SubTexture name="Background Characters0017" x="1603" y="1969" width="800" height="655"/>
+</TextureAtlas>

@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Meimona_Corvus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down_Arrow_Mei0000" x="1" y="1" width="447" height="797" frameX="0" frameY="-13" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0001" x="1" y="1" width="447" height="797" frameX="0" frameY="-13" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0002" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0003" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0004" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0005" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0006" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0007" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0008" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0009" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0010" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0011" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0012" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Down_Arrow_Mei0013" x="449" y="1" width="440" height="810" frameX="-4" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Left_Arrow_Mei0000" x="890" y="1" width="600" height="819" frameX="0" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0001" x="890" y="1" width="600" height="819" frameX="0" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0002" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0003" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0004" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0005" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0006" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0007" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0008" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0009" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0010" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0011" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0012" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0013" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Left_Arrow_Mei0014" x="1491" y="1" width="599" height="819" frameX="-4" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Mei_Dead_Loop0000" x="2091" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0001" x="2558" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0002" x="2558" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0003" x="3025" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0004" x="3025" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0005" x="3492" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0006" x="3492" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0007" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0008" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0009" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0010" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0011" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0012" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0013" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0014" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0015" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0016" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0017" x="2091" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0018" x="2558" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0019" x="2558" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0020" x="3025" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0021" x="3025" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0022" x="3492" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0023" x="3492" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0024" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0025" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0026" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0027" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0028" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0029" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0030" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0031" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0032" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dead_Loop0033" x="3959" y="1" width="466" height="829"/>
+	<SubTexture name="Mei_Dies0000" x="4426" y="1" width="466" height="815" frameX="-17" frameY="-45" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0001" x="4893" y="1" width="466" height="835" frameX="-17" frameY="-25" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0002" x="5360" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0003" x="5827" y="1" width="476" height="852" frameX="-7" frameY="-8" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0004" x="5827" y="1" width="476" height="852" frameX="-7" frameY="-8" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0005" x="6304" y="1" width="483" height="860"/>
+	<SubTexture name="Mei_Dies0006" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0007" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0008" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0009" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0010" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0011" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0012" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0013" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0014" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0015" x="6788" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0016" x="7255" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0017" x="7255" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0018" x="7255" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0019" x="7255" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0020" x="7722" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0021" x="7722" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0022" x="7722" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0023" x="7722" y="1" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0024" x="1" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0025" x="1" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0026" x="1" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0027" x="1" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0028" x="1" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0029" x="1" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0030" x="468" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0031" x="468" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0032" x="935" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0033" x="935" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0034" x="1402" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0035" x="1402" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0036" x="935" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0037" x="935" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0038" x="1869" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0039" x="1869" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0040" x="1869" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0041" x="1869" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0042" x="1869" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0043" x="1869" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0044" x="2336" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0045" x="2336" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0046" x="2336" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0047" x="2336" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0048" x="2803" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0049" x="2803" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0050" x="2803" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0051" x="2803" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0052" x="2803" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0053" x="2803" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0054" x="3270" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0055" x="3270" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0056" x="3270" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Dies0057" x="3270" y="862" width="466" height="836" frameX="-17" frameY="-24" frameWidth="483" frameHeight="860"/>
+	<SubTexture name="Mei_Idle0000" x="3737" y="862" width="445" height="806" frameX="0" frameY="-14" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0001" x="3737" y="862" width="445" height="806" frameX="0" frameY="-14" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0002" x="4183" y="862" width="441" height="814" frameX="-2" frameY="-6" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0003" x="4183" y="862" width="441" height="814" frameX="-2" frameY="-6" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0004" x="4625" y="862" width="440" height="818" frameX="-3" frameY="-2" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0005" x="4625" y="862" width="440" height="818" frameX="-3" frameY="-2" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0006" x="5066" y="862" width="440" height="820" frameX="-3" frameY="0" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0007" x="5066" y="862" width="440" height="820" frameX="-3" frameY="0" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0008" x="5507" y="862" width="440" height="820" frameX="-3" frameY="0" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0009" x="5507" y="862" width="440" height="820" frameX="-3" frameY="0" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0010" x="5507" y="862" width="440" height="820" frameX="-3" frameY="0" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0011" x="5507" y="862" width="440" height="820" frameX="-3" frameY="0" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0012" x="5507" y="862" width="440" height="820" frameX="-3" frameY="0" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Idle0013" x="5507" y="862" width="440" height="820" frameX="-3" frameY="0" frameWidth="445" frameHeight="820"/>
+	<SubTexture name="Mei_Retry0000" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0001" x="6560" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0002" x="7172" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0003" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0004" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0005" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0006" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0007" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0008" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0009" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0010" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0011" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0012" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0013" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0014" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0015" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0016" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0017" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0018" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0019" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0020" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0021" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0022" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0023" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0024" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0025" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0026" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0027" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0028" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0029" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0030" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0031" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0032" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Mei_Retry0033" x="5948" y="862" width="611" height="1144"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0000" x="449" y="1" width="440" height="810" frameX="-6" frameY="0" frameWidth="447" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0001" x="1" y="2007" width="447" height="806" frameX="-2" frameY="-4" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0002" x="1" y="2007" width="447" height="806" frameX="-2" frameY="-4" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0003" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0004" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0005" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0006" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0007" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0008" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0009" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0010" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0011" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0012" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0013" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0014" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0015" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0016" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0017" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0018" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0019" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0020" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0021" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0022" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0023" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0024" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0025" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0026" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0027" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0028" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0029" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0030" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0031" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0032" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0033" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Down_Arrow_Mei0034" x="449" y="2007" width="451" height="801" frameX="0" frameY="-9" frameWidth="451" frameHeight="810"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0000" x="890" y="1" width="600" height="819" frameX="0" frameY="0" frameWidth="603" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0001" x="901" y="2007" width="600" height="815" frameX="-6" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0002" x="901" y="2007" width="600" height="815" frameX="-6" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0003" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0004" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0005" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0006" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0007" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0008" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0009" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0010" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0011" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0012" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0013" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0014" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0015" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0016" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0017" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0018" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0019" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0020" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0021" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0022" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0023" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0024" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0025" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0026" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0027" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0028" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0029" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0030" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0031" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0032" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Left_Arrow_Mei0033" x="1502" y="2007" width="600" height="815" frameX="-3" frameY="-4" frameWidth="606" frameHeight="819"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0000" x="2103" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0001" x="2544" y="2007" width="440" height="823" frameX="0" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0002" x="2544" y="2007" width="440" height="823" frameX="0" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0003" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0004" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0005" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0006" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0007" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0008" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0009" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0010" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0011" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0012" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0013" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0014" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0015" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0016" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0017" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0018" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0019" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0020" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0021" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0022" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0023" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0024" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0025" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0026" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0027" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0028" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0029" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0030" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0031" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0032" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Right_Arrow_Mei0033" x="2985" y="2007" width="440" height="823" frameX="-6" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0000" x="3426" y="2007" width="530" height="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0001" x="3957" y="2007" width="530" height="817" frameX="0" frameY="-10" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0002" x="3957" y="2007" width="530" height="817" frameX="0" frameY="-10" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0003" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0004" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0005" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0006" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0007" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0008" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0009" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0010" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0011" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0012" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0013" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0014" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0015" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0016" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0017" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0018" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0019" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0020" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0021" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0022" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0023" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0024" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0025" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0026" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0027" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0028" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0029" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0030" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0031" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0032" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Miss_Up_Arrow_Mei0033" x="4488" y="2007" width="527" height="823" frameX="-2" frameY="-4" frameWidth="530" frameHeight="827"/>
+	<SubTexture name="Right_Arrow_Mei0000" x="2103" y="2007" width="440" height="823" frameX="-3" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0001" x="2103" y="2007" width="440" height="823" frameX="-3" frameY="0" frameWidth="446" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0002" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0003" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0004" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0005" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0006" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0007" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0008" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0009" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0010" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0011" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0012" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Right_Arrow_Mei0013" x="5016" y="2007" width="439" height="823" frameX="0" frameY="0" frameWidth="443" frameHeight="823"/>
+	<SubTexture name="Up_Arrow_Mei0000" x="5456" y="2007" width="530" height="827" frameX="-5" frameY="0" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0001" x="5456" y="2007" width="530" height="827" frameX="-5" frameY="0" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0002" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0003" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0004" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0005" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0006" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0007" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0008" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0009" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0010" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0011" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0012" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0013" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+	<SubTexture name="Up_Arrow_Mei0014" x="5987" y="2007" width="538" height="822" frameX="0" frameY="-5" frameWidth="538" frameHeight="827"/>
+</TextureAtlas>

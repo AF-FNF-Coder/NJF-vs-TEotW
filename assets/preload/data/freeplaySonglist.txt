@@ -1,0 +1,6 @@
+Tutorial:gf:0
+They Ignore You:BS:7
+They Mock You:BS:7
+They Fight You:BS_angry:7
+You Win:BS_angry:7
+Icicle Bay:kaji:8
