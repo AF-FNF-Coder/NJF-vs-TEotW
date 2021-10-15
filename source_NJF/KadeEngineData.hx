@@ -121,7 +121,7 @@ class KadeEngineData
 			FlxG.save.data.camzoom = true;
 
 		if (FlxG.save.data.scoreScreen == null)
-			FlxG.save.data.scoreScreen = true;
+			FlxG.save.data.scoreScreen = false;
 
 		if (FlxG.save.data.inputShow == null)
 			FlxG.save.data.inputShow = false;

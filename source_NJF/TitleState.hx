@@ -43,7 +43,7 @@ using StringTools;
 class TitleState extends MusicBeatState
 {
 	// AF Enjoyer: Changed this to true
-	static var initialized:Bool = true;
+	static var initialized:Bool = false;
 
 	// AF Enjoyer: Added this variable to know what to switch to
 	static var numberOfSkips:Int = 0;
@@ -63,7 +63,7 @@ class TitleState extends MusicBeatState
 	override public function create():Void
 	{
 		#if polymod
-		polymod.Polymod.init({modRoot: "mods", dirs: ['introMod']});
+		//polymod.Polymod.init({modRoot: "mods", dirs: ['introMod']});
 		#end
 		
 		#if sys
@@ -164,24 +164,26 @@ class TitleState extends MusicBeatState
 		add(logoBl);
 		*/
 		
-		var hasCredoOccured:Bool = false;
-		if(!VideoState.devKeyPressed) {
-			switch(VideoState.numberOfEnters) {
-				case 0:
-					trace('Inevitable');
-					//var video:MP4Handler = new MP4Handler();
-               		//video.playMP4('assets/videos/Inevitable/Inevitable.mp4', new TitleState(), null, false, false);
-					FlxG.sound.cache('assets/videos/Inevitable/Inevitable.ogg');
-					FlxG.switchState(new VideoState('assets/videos/Inevitable/Inevitable.webm', new TitleState()));
-				default:
-					if(!hasCredoOccured) {
-						trace('Credo');
-						//var video:MP4Handler = new MP4Handler();
-						//video.playMP4('assets/videos/Inevitable/Inevitable.mp4', new TitleState(), null, false, false);
-						FlxG.switchState(new VideoState('assets/videos/Credo/Credo.webm', new TitleState()));
-					}
-			}
+		switch(VideoState.numberOfEnters) {
+			case 0:
+				trace('Inevitable');
+				var video:MP4Handler = new MP4Handler();
+				video.playMP4('assets/videos/Inevitable/Inevitable.mp4', new TitleState(), null, false, false);
+				//FlxG.sound.cache('assets/videos/Inevitable/Inevitable.ogg');
+				//FlxG.switchState(new VideoState('assets/videos/Inevitable/Inevitable.webm', new TitleState()));
+			default:
+				if(!VideoState.devKeyPressed) {
+					trace('Credo');
+					var video:MP4Handler = new MP4Handler();
+					this.persistentUpdate = false;
+					video.playMP4('assets/videos/Credo/Credo.mp4', new TitleState(), null, false, false);
+					video.vlcBitmap.onComplete = onCredoComplete;
+					//FlxG.switchState(new VideoState('assets/videos/Credo/Credo.webm', new TitleState()));
+				} else {
+					onCredoComplete();
+				}
 		}
+
 		
 		// AF Enjoyer: This is what is used for the title text, both for idle and for the press animation
 		/*
@@ -225,7 +227,7 @@ class TitleState extends MusicBeatState
 
 		credTextShit.visible = false;
 		*/
-
+		/*
 		ngSpr = new FlxSprite(0, FlxG.height * 0.52).loadGraphic(Paths.image('newgrounds_logo'));
 		add(ngSpr);
 		ngSpr.visible = false;
@@ -236,7 +238,7 @@ class TitleState extends MusicBeatState
 			{
 				ngSpr.antialiasing = true;
 			}
-
+		*/
 		//FlxTween.tween(credTextShit, {y: credTextShit.y + 20}, 2.9, {ease: FlxEase.quadInOut, type: PINGPONG});
 
 		FlxG.mouse.visible = false;
@@ -267,13 +269,22 @@ class TitleState extends MusicBeatState
 			
 			// AF Enjoyer: Making some changes here
 
+			/*
 			// THESE ARE THE POSSIBLE SONGS
 			playRandomAFSong();
 			Conductor.changeBPM(100);
 			initialized = true;
+			*/
 		//}
 
 		// credGroup.add(credTextShit);
+	}
+
+	function onCredoComplete() {
+		this.persistentUpdate = true;
+		playRandomAFSong();
+		Conductor.changeBPM(100);
+		initialized = true;
 	}
 
 	public static function playRandomAFSong() {
@@ -400,8 +411,8 @@ class TitleState extends MusicBeatState
 			});*/
 			// FlxG.sound.play(Paths.music('titleShoot'), 0.7);
 		}
-		
-		FlxG.switchState(new MainMenuState());
+		if(initialized)
+			FlxG.switchState(new MainMenuState());
 		if (!skippedIntro && initialized)
 			{
 			skipIntro();

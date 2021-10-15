@@ -4120,7 +4120,7 @@ class PlayState extends MusicBeatState
 
 			FlxG.sound.music.stop();
 			vocals.stop();
-			if (FlxG.save.data.scoreScreen)
+			if (FlxG.save.data.scoreScreen && false)
 			{
 				var resultsScreen:ResultsScreen = new ResultsScreen();
 				resultsScreen.currentSelected = lowerCaseSongName;

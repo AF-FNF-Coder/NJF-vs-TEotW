@@ -24,10 +24,13 @@ class MP4Handler
 	#if desktop
 	public var vlcBitmap:VlcBitmap;
 	#end
+	var path:String;
+	public var stopInevitable:Bool;
 
 	public function new()
 	{
-
+		stopInevitable = false;
+		path = '';
 		FlxG.autoPause = false;
 
 		if (FlxG.sound.music != null)
@@ -38,6 +41,7 @@ class MP4Handler
 
 	public function playMP4(path:String, callback:FlxState, ?outputTo:FlxSprite = null, ?repeat:Bool = false, ?isWindow:Bool = false, ?isFullscreen:Bool = false):Void
 	{
+		this.path = path;
 		#if html5
 		FlxG.autoPause = false;
 
@@ -132,14 +136,11 @@ class MP4Handler
 
 		FlxG.camera.fade(FlxColor.BLACK, 0, false);
 
-
-		//trace("Big, Big Chungus, Big Chungus!");
-
 		new FlxTimer().start(0.3, function (tmr:FlxTimer)
 		{
 			if (finishCallback != null)
 			{
-				LoadingState.loadAndSwitchState(finishCallback);
+					LoadingState.loadAndSwitchState(finishCallback);
 			}
 			vlcBitmap.dispose();
 
@@ -152,6 +153,39 @@ class MP4Handler
 
 	}
 
+	function onInevitableComplete() {
+		if(stopInevitable) {
+			vlcBitmap.stop();
+
+			// Clean player, just in case! Actually no.
+
+			FlxG.camera.fade(FlxColor.BLACK, 0, false);
+
+			new FlxTimer().start(0.3, function (tmr:FlxTimer)
+			{
+				if (finishCallback != null)
+				{
+						LoadingState.loadAndSwitchState(finishCallback);
+				}
+				vlcBitmap.dispose();
+
+				if (FlxG.game.contains(vlcBitmap))
+				{
+					FlxG.game.removeChild(vlcBitmap);
+				}	
+			});
+		} else {
+			vlcBitmap.stop();
+			FlxG.camera.fade(FlxColor.BLACK, 0, false);
+
+			new FlxTimer().start(0.3, function (tmr:FlxTimer) {
+				trace('restarting');
+				var video:MP4Handler = new MP4Handler();
+				video.playMP4('assets/videos/Inevitable/Inevitable.mp4', new TitleState(), null, false, false);
+			});
+		}
+	}
+
 	function onVLCError()
 	{
 		if (finishCallback != null)
@@ -162,15 +196,31 @@ class MP4Handler
 
 	function update(e:Event)
 	{
+		//trace('yo');
+		if(FlxG.keys.justPressed.X) {
+			trace('pressed x');
+			VideoState.devKeyPressed = true;
+		}
+
+
 		if (FlxG.keys.justPressed.ENTER || FlxG.keys.justPressed.SPACE)
 		{
 			if (vlcBitmap.isPlaying)
 			{
-				onVLCComplete();
+				if(path == 'assets/videos/Inevitable/Inevitable.mp4') {
+					VideoState.numberOfEnters++;
+					trace('stopping inevitable');
+					stopInevitable = true;
+				}
+				// AF Enjoyer: Gotta add the checks here if i want to convert the intros to .mp4
+				if(VideoState.devKeyPressed || path != 'assets/videos/Credo/Credo.mp4') {
+					onVLCComplete();
+				}
 			}
 		}
 		vlcBitmap.volume = FlxG.sound.volume + 0.3; // shitty volume fix. then make it louder.
 		if (FlxG.sound.volume <= 0.1) vlcBitmap.volume = 0;
+
 	}
 	#end
 
