@@ -76,7 +76,7 @@ class MP4Handler
 		vlcBitmap.set_width(FlxG.stage.stageHeight * (16 / 9));
 
 		trace("Setting width to " + FlxG.stage.stageHeight * (16 / 9));
-		trace("Setting width to " + FlxG.stage.stageWidth);
+		trace("Real width: " + FlxG.stage.stageWidth);
 		trace("Setting height to " + FlxG.stage.stageHeight);
 
 		vlcBitmap.onVideoReady = onVLCVideoReady;

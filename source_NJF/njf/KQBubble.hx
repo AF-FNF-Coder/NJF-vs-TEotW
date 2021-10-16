@@ -94,8 +94,8 @@ class KQBubble extends FlxSprite {
             }
         }
         //Incase im testing something and dont want to die
-        //if(PlayState.SONG.song.toLowerCase() == 'they fight you')
-           //x = 400;
+        if(PlayState.SONG.song.toLowerCase() == 'they fight you')
+           x = 400;
         super.update(elapsed);
     }
 
