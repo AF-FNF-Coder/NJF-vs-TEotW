@@ -1506,7 +1506,9 @@ class PlayState extends MusicBeatState
 					inCutscene = true;
 
 					dad.x += 70;
-					camPos.y += 500;
+					camPos.y -= 500;
+					camFollow.y -= 500;
+					FlxG.camera.focusOn(camFollow.getPosition());
 
 					bubbleKill();
 
