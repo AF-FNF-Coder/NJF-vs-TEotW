@@ -204,7 +204,7 @@ class PlayState extends MusicBeatState
 	public var iconP2:HealthIcon; // what could go wrong?
 	public var camHUD:FlxCamera;
 
-	private var camGame:FlxCamera;
+	public var camGame:FlxCamera;
 	public var cannotDie = false;
 
 	public static var offsetTesting:Bool = false;
@@ -1467,6 +1467,8 @@ class PlayState extends MusicBeatState
 								killerQueenBubble.velocity.x = 800;
 
 								theHand = new FlxSprite().loadGraphic(Paths.image('NJF/The_Hand'));
+								if(FlxG.save.data.antialiasing == true)
+									theHand.antialiasing = true;
 								theHand.alpha = 0;
 
 								// middle point at the end of the cutscene will be around x:500 y:400
@@ -1540,7 +1542,8 @@ class PlayState extends MusicBeatState
 
 	function bubbleDeath() {
 		new FlxTimer().start(1, function(tmr:FlxTimer) {
-			killerQueenBubble.explode();
+			KQBubble.explode();
+			//killerQueenBubble.explode();
 
 			//#if !debug
 			boyfriend.stunned = true;
@@ -1582,7 +1585,8 @@ class PlayState extends MusicBeatState
 		new FlxTimer().start(1, function(tmr:FlxTimer) {
 			remove(killerQueenBubble);
 			add(explosion);
-			killerQueenBubble.explode();
+			KQBubble.explode();
+			//killerQueenBubble.explode();
 			explosion.explode();
 
 			new FlxTimer().start(4, function(tmr:FlxTimer) {
@@ -2722,7 +2726,8 @@ class PlayState extends MusicBeatState
 					}
 				case 128:
 					if(soundFrame != 128) {
-						FlxG.sound.play(Paths.music('KQ_Explosion'), 1);
+						KQBubble.explode();
+						//FlxG.sound.play(Paths.music('KQ_Explosion'), 1);
 						soundFrame = 128;
 					}
 			}
@@ -3462,7 +3467,8 @@ class PlayState extends MusicBeatState
 						FlxG.save.data.hasRevivedBefore = true;
 						hasRevived = true;
 					}
-					killerQueenBubble.explode();
+					KQBubble.explode();
+					//killerQueenBubble.explode();
 
 					//#if !debug
 					boyfriend.stunned = true;

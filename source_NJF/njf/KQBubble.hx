@@ -1,5 +1,6 @@
 package njf;
 
+import flixel.FlxCamera;
 import flixel.util.FlxTimer;
 import flixel.FlxG;
 import flixel.math.FlxPoint;
@@ -191,9 +192,23 @@ class KQBubble extends FlxSprite {
         //trace('D: ' + D);
     }
 
-    public function explode() {
-        if(!hasExploded) {
+    public static function explode() {
+        //if(!hasExploded) {
+            trace('exploding');
+            //improvedShake(PlayState.instance.camGame, 0.1);
+            //improvedShake(PlayState.instance.camHUD, 0.1);
+            //PlayState.instance.camHUD.shake(0.01, 0.2);
+            //PlayState.instance.camGame.shake(0.1, 0.2);
             FlxG.sound.play(Paths.music('KQ_Explosion'), 1);
+        //}
+    }
+
+    public static function improvedShake(cam:FlxCamera, intensity:Float) {
+        if(intensity >= 0.001) {
+            cam.shake(intensity, 0.1, function() {
+                intensity -= 0.5*intensity;
+                improvedShake(cam, intensity);
+            });
         }
     }
 

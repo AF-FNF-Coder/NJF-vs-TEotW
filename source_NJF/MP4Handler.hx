@@ -92,7 +92,9 @@ class MP4Handler
 		vlcBitmap.fullscreen = isFullscreen;
 
 		FlxG.addChildBelowMouse(vlcBitmap);
-		vlcBitmap.play(checkFile(path));
+		//FlxG.camera.fade(FlxColor.GRAY, 1, false, function() {
+			vlcBitmap.play(checkFile(path));
+		//});
 		
 		if (outputTo != null)
 		{
@@ -134,10 +136,7 @@ class MP4Handler
 
 		// Clean player, just in case! Actually no.
 
-		FlxG.camera.fade(FlxColor.BLACK, 0, false);
-
-		new FlxTimer().start(0.3, function (tmr:FlxTimer)
-		{
+		//FlxG.camera.fade(FlxColor.BLACK, 1, false, function() {
 			if (finishCallback != null)
 			{
 					LoadingState.loadAndSwitchState(finishCallback);
@@ -148,7 +147,7 @@ class MP4Handler
 			{
 				FlxG.game.removeChild(vlcBitmap);
 			}	
-		});
+		//});
 		
 
 	}
@@ -159,13 +158,10 @@ class MP4Handler
 
 			// Clean player, just in case! Actually no.
 
-			FlxG.camera.fade(FlxColor.BLACK, 0, false);
-
-			new FlxTimer().start(0.3, function (tmr:FlxTimer)
-			{
+			//FlxG.camera.fade(FlxColor.BLACK, 1, false, function() {
 				if (finishCallback != null)
 				{
-						LoadingState.loadAndSwitchState(finishCallback);
+					LoadingState.loadAndSwitchState(finishCallback);
 				}
 				vlcBitmap.dispose();
 
@@ -173,16 +169,14 @@ class MP4Handler
 				{
 					FlxG.game.removeChild(vlcBitmap);
 				}	
-			});
+			//});
 		} else {
 			vlcBitmap.stop();
-			FlxG.camera.fade(FlxColor.BLACK, 0, false);
-
-			new FlxTimer().start(0.3, function (tmr:FlxTimer) {
+			//FlxG.camera.fade(FlxColor.BLACK, 1, false, function() {
 				trace('restarting');
 				var video:MP4Handler = new MP4Handler();
 				video.playMP4('assets/videos/Inevitable/Inevitable.mp4', new TitleState(), null, false, false);
-			});
+			//});
 		}
 	}
 

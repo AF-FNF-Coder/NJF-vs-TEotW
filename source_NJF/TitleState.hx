@@ -166,19 +166,16 @@ class TitleState extends MusicBeatState
 		
 		switch(VideoState.numberOfEnters) {
 			case 0:
-				trace('Inevitable');
-				var video:MP4Handler = new MP4Handler();
-				video.playMP4('assets/videos/Inevitable/Inevitable.mp4', new TitleState(), null, false, false);
-				//FlxG.sound.cache('assets/videos/Inevitable/Inevitable.ogg');
-				//FlxG.switchState(new VideoState('assets/videos/Inevitable/Inevitable.webm', new TitleState()));
+					trace('Inevitable');
+					var video:MP4Handler = new MP4Handler();
+					video.playMP4('assets/videos/Inevitable/Inevitable.mp4', new TitleState(), null, false, false);
 			default:
 				if(!VideoState.devKeyPressed) {
-					trace('Credo');
-					var video:MP4Handler = new MP4Handler();
-					this.persistentUpdate = false;
-					video.playMP4('assets/videos/Credo/Credo.mp4', new TitleState(), null, false, false);
-					video.vlcBitmap.onComplete = onCredoComplete;
-					//FlxG.switchState(new VideoState('assets/videos/Credo/Credo.webm', new TitleState()));
+						trace('Credo');
+						var video:MP4Handler = new MP4Handler();
+						this.persistentUpdate = false;
+						video.playMP4('assets/videos/Credo/Credo.mp4', new TitleState(), null, false, false);
+						video.vlcBitmap.onComplete = onCredoComplete;
 				} else {
 					onCredoComplete();
 				}
