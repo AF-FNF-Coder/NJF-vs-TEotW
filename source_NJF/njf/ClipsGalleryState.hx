@@ -1,5 +1,6 @@
 package njf;
 
+import flixel.FlxBasic;
 import haxe.Exception;
 import haxe.DynamicAccess;
 import haxe.Json;
@@ -680,6 +681,11 @@ class ClipsGalleryState extends MusicBeatState
 		}
 
 		if(justChanged) {
+			//var curSelected:VideoClipSprite = selectablesList.get(currentSelected);
+			//var frontClip:FlxBasic = this.getFirstAlive();
+			//replace(frontClip, curSelected);
+			//add(frontClip);
+
 			selectablesList.get(currentSelected).expand();
 			justChanged = false;
 		}

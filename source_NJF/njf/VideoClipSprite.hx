@@ -1,6 +1,7 @@
 package njf;
 
 
+import flixel.util.FlxTimer;
 import flixel.util.FlxColor;
 import flixel.animation.FlxBaseAnimation;
 import flixel.graphics.frames.FlxAtlasFrames;
