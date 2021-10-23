@@ -96,6 +96,7 @@ class PlayState extends MusicBeatState
 	public var playExplodedAnimation:Bool = false;
 	public var hasRevived:Bool = false;
 	public var fall:Bool = false;
+	var camHudZoom:Float;
 	//public var lastSong:SwagSong;
 
 
@@ -414,6 +415,7 @@ class PlayState extends MusicBeatState
 
 		FlxG.cameras.reset(camGame);
 		FlxG.cameras.add(camHUD);
+		camHudZoom = camHUD.zoom;
 
 		FlxCamera.defaultCameras = [camGame];
 
@@ -3377,10 +3379,10 @@ class PlayState extends MusicBeatState
 		// 			(FlxG.camera.zoom = FlxMath.lerp(defaultCamZoom, FlxG.camera.zoom, 0.95);)
 		// Doesnt seem to affect the zoom actually?
 		if (camZooming)
-			{
-				FlxG.camera.zoom = FlxMath.lerp(defaultCamZoom, FlxG.camera.zoom, 0.9);
-				camHUD.zoom = FlxMath.lerp(1, camHUD.zoom, 0.9);
-			}
+		{
+			FlxG.camera.zoom = FlxMath.lerp(defaultCamZoom, FlxG.camera.zoom, 0.9);
+			camHUD.zoom = FlxMath.lerp(camHudZoom, camHUD.zoom, 0.9);
+		}
 
 		FlxG.watch.addQuick("curBPM", Conductor.bpm);
 		FlxG.watch.addQuick("Closest Note", (unspawnNotes.length != 0 ? unspawnNotes[0].strumTime - Conductor.songPosition : "No note"));
