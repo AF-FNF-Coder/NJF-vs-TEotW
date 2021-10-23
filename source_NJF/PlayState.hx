@@ -1508,10 +1508,10 @@ class PlayState extends MusicBeatState
 					inCutscene = true;
 
 					dad.x += 70;
-					camPos.y -= 500;
-					camFollow.y -= 500;
+					camPos.y -= 1200;
+					camFollow.y -= 600;
 					FlxG.camera.focusOn(camFollow.getPosition());
-
+					
 					bubbleKill();
 
 					new FlxTimer().start(10, function(tmr:FlxTimer) {
