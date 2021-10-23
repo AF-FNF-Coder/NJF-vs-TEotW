@@ -681,10 +681,11 @@ class ClipsGalleryState extends MusicBeatState
 		}
 
 		if(justChanged) {
-			//var curSelected:VideoClipSprite = selectablesList.get(currentSelected);
-			//var frontClip:FlxBasic = this.getFirstAlive();
-			//replace(frontClip, curSelected);
-			//add(frontClip);
+			var curSelected:VideoClipSprite = selectablesList.get(currentSelected);
+			var frontClip:FlxBasic = this.members[(this.length-1)];
+			remove(frontClip, true);
+			replace(curSelected, frontClip);
+			add(curSelected);
 
 			selectablesList.get(currentSelected).expand();
 			justChanged = false;
