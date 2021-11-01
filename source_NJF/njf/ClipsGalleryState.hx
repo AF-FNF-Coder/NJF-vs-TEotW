@@ -343,7 +343,7 @@ class ClipsGalleryState extends MusicBeatState
 				
 			case 'C':
 				clip1 = 'Keep Typing';
-				clip2 = 'Embarrassing';
+				clip2 = 'Influencing Tucker Carlson';
 				clip3 = 'Mentioning Israel';
 				clip4 = 'Name The Elites';
 				clip5 = 'AOC Booba';
@@ -369,8 +369,8 @@ class ClipsGalleryState extends MusicBeatState
 				true, true, false, true, true, clip3, clip18, null, clip8, clipsMenu);
 				selectablesList.set(clip_sprite1.topText, clip_sprite1);
 				//right 1, top
-				var clip_sprite2:VideoClipSprite = new VideoClipSprite(900, 450, 'you_should_be_embarrassed', clip2,
-				false, true, false, false, true, clip18, clip4, null, clip10, clipsMenu);
+				var clip_sprite2:VideoClipSprite = new VideoClipSprite(900, 450, 'influencing_tucker_carlson', clip2,
+				true, true, true, false, false, clip18, clip4, null, clip10, clipsMenu);
 				selectablesList.set(clip_sprite2.topText, clip_sprite2);
 				//left 2, top
 				var clip_sprite3:VideoClipSprite = new VideoClipSprite(-300, 450, 'mentioning_israel', clip3,
